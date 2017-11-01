@@ -2,7 +2,7 @@
 ## Deep Learning Specialization
 **Master Deep Learning, and Break into AI**
 
-# There is all the `ipynb` notebook and slides that associated with <a href="http://deeplearning.ai">deeplearning.ai</a>
+## There is all the `ipynb` notebook and slides that associated with <a href="http://deeplearning.ai">deeplearning.ai</a>
 * **There is no solution in the notebook**
 * **All datafile added**
 * **You Can download them and practice offline**
