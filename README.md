@@ -1,7 +1,10 @@
 ## Sorry
 
 Coursera request that I need to remove the Coursera course material from my github site immediately as I'm in violation of our Terms of Use.
+
 **So I removed all the files.**
+
+**For Any kind of help, feel free to email me at shahariarrabby@gmail.com**
 
 But if you are over the age of 13 you can create an account on Coursera and audit the courses to access the Deep Learning Material.
 ### You can visit <a href="http://deeplearning.ai">deeplearning.ai</a> this link and create a account to get all the material for free. 
@@ -22,7 +25,7 @@ https://drive.google.com/open?id=1_HDHpsm_bIOkdo7aVkOcLsYxejilRujv
 -->
 
 ## Pre Trained Models
-**Github only allows to share file less than 50mb. There is some pre-trained model like resnet etc. Suggest you to download them from My [Google Drive]() or download them from online (as they are so popular you can easily get them)**
+**Github only allows to share file less than 50mb. There is some pre-trained model like resnet etc. Suggest you to download them from My [Google Drive]() (DRIVE LINK REMOVED) or download them from online (as they are so popular you can easily get them)**
 
 ## Video Link
 * **[Deeplearning.ai youtube channel](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists)**
@@ -34,6 +37,8 @@ https://drive.google.com/open?id=1_HDHpsm_bIOkdo7aVkOcLsYxejilRujv
 * **[Course 03 video link](https://www.youtube.com/watch?v=dFX8k1kXhOw&list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b)**
 
 * **[Course 04 video link](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)**
+
+* **[Course 05 video link](https://www.youtube.com/watch?v=DejHQYAGb7Q&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)**
 
 ## Conclusion
 #### Everyone welcome to create pull request if new resource update or if i miss anything :)
