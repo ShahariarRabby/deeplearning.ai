@@ -1,10 +1,8 @@
 ## Sorry
 
-Coursera request that I need to remove the Coursera course material from my github site immediately as I'm in violation of our Terms of Use.
+Coursera requested that I need to remove the Coursera course material from my github site immediately as I'm in violation of our Terms of Use.
 
 **So I removed all the files.**
-
-**For Any kind of help, feel free to email me at shahariarrabby@gmail.com**
 
 But if you are over the age of 13 you can create an account on Coursera and audit the courses to access the Deep Learning Material.
 ### You can visit <a href="http://deeplearning.ai">deeplearning.ai</a> this link and create a account to get all the material for free. 
